@@ -35,7 +35,7 @@ Button press animation for both click and keyboard input for better UX.
 
 ## 🚀 Live Demo
 
-🔗 [View the Live Calculator App](https://pranav-msk.github.io/calculator/)
+🔗 [View the Live Calculator App](https://pranav-msk.github.io/Calculator/)
 
 ---
 
